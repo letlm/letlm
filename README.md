@@ -35,33 +35,29 @@
 
 #### 🛒 Libraries & Framemork
 ![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-27338e?style=for-the-badge&logo=redux&logoColor=white)
-![Context Api](https://img.shields.io/badge/Context--Api-563D7C?style=for-the-badge&logo=react&logoColor=black)    ![Styled Components](https://img.shields.io/badge/Styled--Components-444?style=for-the-badge&logo=styled-components&logoColor=white)
+![Context Api](https://img.shields.io/badge/Context--Api-563D7C?style=for-the-badge&logo=react&logoColor=black)    ![Styled Components](https://img.shields.io/badge/Styled--Components-FF1493?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React--Hook--Form-gold?style=for-the-badge&logo=react&logoColor=black)
 ![React Hooks](https://img.shields.io/badge/React--Hooks-red?style=for-the-badge&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-black?style=for-the-badge&logo=react&logoColor=white)
-![Typical](https://img.shields.io/badge/Typical-352341?style=for-the-badge&logo=npm&logoColor=black)
-![Toastify](https://img.shields.io/badge/Toastify-352341?style=for-the-badge&logo=react&logoColor=white)
-![Yup](https://img.shields.io/badge/Yup-purple?style=for-the-badge&logo=npm&logoColor=white)
+![Toastify](https://img.shields.io/badge/Toastify-00FFFF?style=for-the-badge&logo=react&logoColor=black)
+![Yup](https://img.shields.io/badge/Yup-pink?style=for-the-badge&logo=react&logoColor=black)
 
 #### 🖥️ Platforms & Tools:
  ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-560e7c.svg?&style=for-the-badge&logo=insomnia&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-444?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-333333?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-444?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-purple.svg?&style=for-the-badge&logo=yarn&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Codepen](https://img.shields.io/badge/Codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-red.svg?&style=for-the-badge&logo=trello&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-red.svg?&style=for-the-badge&logo=trello&logoColor=white) 
 <br>
 
-#### 💻 Workspace
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
