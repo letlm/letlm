@@ -9,7 +9,7 @@
  <h1 align="left">Olá, me chamo Letícia Leal Moreira!
 </h1>
     <h3>
-        Sou uma desenvolvedora Front End em busca da primeira </br> oportunidade de trabalho 🚀 
+        Sou uma desenvolvedora Front End em busca da primeira oportunidade de trabalho 🚀 
     </h3>
     <h4>📄 Você pode ver alguns dos meus projetos no meu <a href="https://portfolio-letlm.vercel.app/" target="_blank">Portfólio!</a></h4>
      <h1 align="left">
