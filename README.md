@@ -24,7 +24,7 @@
 <br>
 #### 🌱 Atualmente meus estudos são com foco em Back End: <br>
 ![Typescript](https://img.shields.io/badge/Typescript-0081CB?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0081CB?style=for-the-badge&logo=docker&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=for-the-badge&logo=postgresql&logoColor=0273B7) ![Json Web Tokens](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) ![Bcrypt](https://img.shields.io/badge/Bcrypt-%23323330.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23F7DF1E)
+![Docker](https://img.shields.io/badge/Docker-0081CB?style=for-the-badge&logo=docker&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-purple?style=for-the-badge&logo=express&logoColor=pink) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=for-the-badge&logo=postgresql&logoColor=0273B7) ![Json Web Tokens](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) ![Bcrypt](https://img.shields.io/badge/Bcrypt-%23323330.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23F7DF1E)
     <br>
        
  #### 📫 Você pode entrar em contato comigo por: </br>
