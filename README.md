@@ -66,10 +66,16 @@
 <a href="https://github.com/letlm">
  <img  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=letlm&show_icons=true&border=true&theme=radical" />
     <br>
+    
+  
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=letlm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letlm&layout=compact&langs_count=7&theme=radical"/>
 ![Snake animation](https://github.com/letlm/letlm/blob/output/github-contribution-grid-snake.svg)
 
 </div>
   
+---
 
+![Letícia Leal Moreira's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=letlm&hide_border=true&theme=redical)
+
+---
