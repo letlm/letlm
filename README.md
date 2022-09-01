@@ -6,8 +6,8 @@
 
 <div dsplay="inline-block">
  
- <h1 align="left">Olá, me chamo Letícia Leal Moreira!
-</h1>
+ <h2 align="left">Olá, me chamo Letícia Leal Moreira!
+</h2>
     <h4>
         Desenvolvedora FullStack em busca da primeira oportunidade de trabalho 🚀 
     </h4>
