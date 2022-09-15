@@ -12,7 +12,7 @@
         Desenvolvedora FullStack JR em busca da primeira oportunidade de trabalho 🚀 
     </h4>
     ✍🏻 Estou cursando Desenvolvimento Web Full Stack na Kenzie Academy Brasil.
-    <h4>📄 Você pode ver alguns dos meus projetos no meu <a href="https://portfolio-letlm.vercel.app/" target="_blank">Portfólio!</a></h4>
+    <h4>📄 Você pode ver alguns dos meus projetos no meu <a href="https://letlm.vercel.app/" target="_blank">Portfólio!</a></h4>
      <h1 align="left">
 </h1>
 </div>
