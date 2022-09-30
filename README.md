@@ -24,13 +24,13 @@
 <a href="https://www.linkedin.com/in/leticia-leal-moreira/" target="_blank"><img width="55px" style="padding:4px" src="https://img.icons8.com/color/144/000000/linkedin.png" target="_blank"></a>   
 
 
-  <h2>🖋️ Some languages and tools:</h2>
+  <h2>🛠️ Algumas linguagens e ferramentas que tenho conhecimento:</h2>
 
 <div  width="50%">
 	<img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/python.png"/>
- <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/django.png"/>
 	<img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/typescript.png"/>
+  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/django.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/react-native.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/nextjs.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/redux.png"/>
