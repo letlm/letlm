@@ -42,6 +42,9 @@
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/heroku.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/gitlab.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/figma.png"/>
+ <img width="55px" style="padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+ <img width="60px" style="padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+          
  
 </div>
 <h4>✍🏻  No momento estou estudando: <img width="35px" style="padding:4px" src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img width="35px" style="padding:4px" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
