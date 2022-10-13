@@ -42,9 +42,10 @@
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/heroku.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/gitlab.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/figma.png"/>
- <img width="60px" style="padding:4px" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
+ 
 </div>
-<h4>✍🏻  No momento estou estudando: <img width="35px" style="padding:4px" src="https://img.icons8.com/color/48/000000/vue-js.png""/> 
+<h4>✍🏻  No momento estou estudando: <img width="35px" style="padding:4px" src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img width="35px" style="padding:4px" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
+<img width="35px" style="padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
 </div>
 <br>
 <div align="center">
