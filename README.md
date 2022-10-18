@@ -66,9 +66,3 @@
 ![Snake animation](https://github.com/letlm/letlm/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-  
----
-
-![Letícia Leal Moreira's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=letlm&hide_border=true&theme=redical&height=100px)
-
----
