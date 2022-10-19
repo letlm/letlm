@@ -9,9 +9,9 @@
  <h2 align="left">Olá, me chamo Letícia Leal Moreira!
 </h2>
     <h4>
-        Desenvolvedora FullStack JR em busca da primeira oportunidade de trabalho 🚀 
+        Desenvolvedora FullStack JR 🚀 
     </h4>
-    ✍🏻 Estou cursando Desenvolvimento Web Full Stack na Kenzie Academy Brasil.
+    ✍🏻 Formada no curso de Desenvolvimento Web Full Stack na Kenzie Academy Brasil.
     <h4>📄 Você pode ver alguns dos meus projetos no meu <a href="https://letlm.vercel.app/" target="_blank">Portfólio!</a></h4>
      <h1 align="left">
 </h1>
