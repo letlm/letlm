@@ -1,30 +1,35 @@
 
-<img align="right" width="260px"  src="https://i.imgur.com/T8ZriJL.png">
-
-</br>
-</br>
-
-<div dsplay="inline-block">
  
- <h2 align="left">Olá, me chamo Letícia Leal Moreira!
+
+</br>
+</br>
+
+<div display="inline-block" text-align="center">
+ <h2 align="center">👋 Olá, sou a Letícia! </br> Desenvolvedora Full Stack Jr 🚀
 </h2>
-    <h4>
-        Desenvolvedora FullStack JR 🚀 
-    </h4>
-    ✍🏻 Formada no curso de Desenvolvimento Web Full Stack na Kenzie Academy Brasil.
-    <h4>📄 Você pode ver alguns dos meus projetos no meu <a href="https://letlm.vercel.app/" target="_blank">Portfólio!</a></h4>
-     <h1 align="left">
-</h1>
+
+<div display="flex">
+<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Cat Programmation" width="20%" />
+<div width="70%">
+
+#### ✍🏻 Formada no curso de Desenvolvimento Web Full Stack da Kenzie Academy Brasil. </br>
+
+#### 📄 Alguns dos meus projetos estão reunidos aqui no meu github e também no meu <a href="https://letlm.vercel.app/" target="_blank">Portfólio!</a> </br>
+
+#### 📫 Caso queira entrar em contato comigo aqui estão meu email e meu linkedin: </br>
+
+<a href = "mailto:lealmleticia@gmail.com"><img width="55px" style="padding:4px" src="https://img.icons8.com/color/144/000000/gmail.png" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leticia-leal-moreira/" target="_blank"><img width="55px" style="padding:4px" src="https://img.icons8.com/color/144/000000/linkedin.png" target="_blank"></a>
+
 </div>
-<div align="left" >
-
-       
- #### 📫 Você pode entrar em contato comigo por: </br>
-  <a href = "mailto:lealmleticia@gmail.com"><img width="55px" style="padding:4px" src="https://img.icons8.com/color/144/000000/gmail.png" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/leticia-leal-moreira/" target="_blank"><img width="55px" style="padding:4px" src="https://img.icons8.com/color/144/000000/linkedin.png" target="_blank"></a>   
 
 
-  <h2>🛠️ Algumas linguagens e ferramentas que tenho conhecimento:</h2>
+
+</div>
+
+<section>
+
+<h3>🛠️ Algumas linguagens e ferramentas que tenho conhecimento:</h3>
 
 <div  width="50%">
 	<img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/python.png"/>
@@ -45,7 +50,8 @@
 
  <img width="55px" style="padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
  <img width="60px" style="padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-          
+
+<section>
 
 <br>
 <div align="center">
