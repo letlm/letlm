@@ -38,11 +38,13 @@
   <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/django.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/react-native.png"/>
 	<img width="60px" style="padding:4px" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
+	<img  width="60px" style="padding:4px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/nextjs.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/redux.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/git.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/docker.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
+	<img width="60px" style="padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/postgresql.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/express-js.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/gitlab.png"/>
@@ -50,6 +52,8 @@
 
  <img width="55px" style="padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
  <img width="60px" style="padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+	
+<img width="60px" style="padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 
 <section>
 
