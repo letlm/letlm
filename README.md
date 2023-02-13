@@ -1,18 +1,23 @@
+<h2>👋 Hello, eu sou a Letícia!</h2>
+<div style="display: inline_block">
 
- 
+<img align="left" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Cat Programmation" width="20%" heigth="100%"/>
 
-</br>
-</br>
 
-<div display="inline-block" text-align="center">
- <h2 align="center">👋 Olá, sou a Letícia! </br> Desenvolvedora Full Stack Jr 🚀
-</h2>
+<h4> Alguns fatos sobre mim:</h4>
+	
+ #### 👩‍💻 Atualmente trabalho como Desenvolvedora FullStack JR </br>
+ #### 👩‍💻 Formada no curso de desenvolvimento Web Full Stack da Kenzie Academy Brasil </br>
+ #### 👩🏻‍🏫 👩🏻‍🔬 Sou licenciada em Química </br>
+ #### ☕️ Não pode faltar um café pela manhã e após o almoço </br>
 
+
+</div>
 <div display="flex">
-<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Cat Programmation" width="20%" />
+
 <div width="70%">
 
-#### ✍🏻 Formada no curso de Desenvolvimento Web Full Stack da Kenzie Academy Brasil. </br>
+#### </br>
 
 #### 📄 Alguns dos meus projetos estão reunidos aqui no meu github e também no meu <a href="https://letlm.vercel.app/" target="_blank">Portfólio!</a> </br>
 
@@ -23,15 +28,13 @@
 
 </div>
 
-
-
 </div>
 
 <section>
 
 <h3>🛠️ Algumas linguagens e ferramentas que tenho conhecimento:</h3>
 
-<div  width="50%">
+<div  width="50%" align="center">
 	<img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/typescript.png"/>
@@ -40,12 +43,15 @@
 	<img width="60px" style="padding:4px" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
 	<img  width="60px" style="padding:4px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/nextjs.png"/>
+	
+ <img width="60px" style="padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+          
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/redux.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/git.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/docker.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
 	<img width="60px" style="padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
- <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/postgresql.png"/>
+<img width="60px" style="padding:4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/express-js.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/gitlab.png"/>
  <img width="60px" style="padding:4px" src="https://img.icons8.com/color/144/000000/figma.png"/>
@@ -69,7 +75,7 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letlm&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-
 ![Snake animation](https://github.com/letlm/letlm/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
