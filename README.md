@@ -1,7 +1,7 @@
 <img align='right' src="https://i.imgur.com/PPQpbxH.png" width="350">
 <h2> Hello, I'm Letícia! <img src="https://media.giphy.com/media/8rqVVbwRWX5kRkhblt/giphy.gif" width="50"></h2>
 
-[![Linkedin: let.lm](https://img.shields.io/badge/-let.lm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-leal-moreira/)](https://www.linkedin.com/in/leticia-leal-moreira/) [![Gmail: let.lm](https://img.shields.io/badge/-let.lm-red?style=flat-square&logo=Gmail&logoColor=white&mailto:lealmleticia@gmail.com)](mailto:lealmleticia@gmail.com)
+[![Linkedin: linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-leal-moreira/)](https://www.linkedin.com/in/leticia-leal-moreira/) [![Gmail: gmail](https://img.shields.io/badge/-gmail-red?style=flat-square&logo=Gmail&logoColor=white&mailto:lealmleticia@gmail.com)](mailto:lealmleticia@gmail.com)
 
 
 
