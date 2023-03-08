@@ -42,11 +42,13 @@
 <img width="50px" style="padding:2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />	
 </div>
 </br>
+
+
+<p><em> No momento estou estudando: </em> </p>
+<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
 </br>
 </br>
-
-
-
 <div align="center">
 
 	
