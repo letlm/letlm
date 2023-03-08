@@ -45,8 +45,10 @@
 
 
 <p><em> No momento estou estudando: </em> </p>
+<div>
 <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-
+<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+</div>
 </br>
 </br>
 <div align="center">
