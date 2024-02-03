@@ -6,7 +6,7 @@
 
 
 
-<p><em>Atualmente trabalho como Desenvolvedora Full Stack JR  <img src="https://media.giphy.com/media/4CT0HDGW75DSDOdxZR/giphy.gif" width="60"> </br>Sou licenciada em Química e fiz a transição de carreira para a área da programação <img src="https://media.giphy.com/media/SS7flEfKcBM2844yiU/giphy.gif" width="45"></br>Formada no curso de Desenvolvimento Web Full Stack da Kenzie Academy Brasil <img src="https://media.giphy.com/media/uAJj0Rj0B4lemRLhuW/giphy.gif" width="50">
+<p><em>Atualmente trabalho como Developer Analyst <img src="https://media.giphy.com/media/4CT0HDGW75DSDOdxZR/giphy.gif" width="60"> </br>Sou licenciada em Química e fiz a transição de carreira para a área da programação <img src="https://media.giphy.com/media/SS7flEfKcBM2844yiU/giphy.gif" width="45">
 </em></p>
 
 -------------------------------------------------------------------------
@@ -19,7 +19,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=flat)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&style=flat)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&style=flat)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray&style=flat)	
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white&style=flat)
+![DjangoREST](https://img.shields.io/badge/django-rest-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray&style=flat)	
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=flat)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat)
@@ -30,17 +31,13 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&style=flat)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=flat)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&style=flat)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&style=flat)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&style=flat)
 ![Nest.js](https://img.shields.io/badge/nest.js-%23404d59.svg?style=for-the-badge&logo=nest&logoColor=%2361DAFB&style=flat)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&style=flat)
 ![AzureDevops](https://img.shields.io/badge/azure_devops-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&style=flat)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF&style=flat)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&style=flat)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&style=flat)
 
 
 </div>
