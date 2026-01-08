@@ -6,7 +6,7 @@
 
 
 
-<p><em>Atualmente trabalho como Developer Analyst <img src="https://media.giphy.com/media/4CT0HDGW75DSDOdxZR/giphy.gif" width="60"> </br>Sou licenciada em Química e fiz a transição de carreira para a área da programação <img src="https://media.giphy.com/media/SS7flEfKcBM2844yiU/giphy.gif" width="45">
+<p><em>Atualmente trabalho como Software Developer <img src="https://media.giphy.com/media/4CT0HDGW75DSDOdxZR/giphy.gif" width="60"> </br>Sou licenciada em Química e fiz a transição de carreira para a área da programação <img src="https://media.giphy.com/media/SS7flEfKcBM2844yiU/giphy.gif" width="45">
 </em></p>
 
 -------------------------------------------------------------------------
